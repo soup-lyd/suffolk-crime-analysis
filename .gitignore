@@ -1,0 +1,4 @@
+data/raw/
+data/clean/
+crime.db
+__pycache__/
